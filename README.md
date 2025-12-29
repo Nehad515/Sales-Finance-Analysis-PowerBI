@@ -1,12 +1,12 @@
   Sales & Finance Analysis Dashboard | Power BI
 
-▶Dashboard Preview
+▶📊 Dashboard Preview
 
-### Sales Overview
-![Sales Dashboard](images/dashboard 1.jpg)
+↣  Sales Overview
+[Sales Dashboard](dashboard 1.jpg)
 
-### Finance & Customer Analysis
-![Finance Dashboard](images/dashboard 2.jpg)
+↣  Finance & Customer Analysis
+[Finance Dashboard](dashboard 2.jpg)
 
 
 ▶ 📌 Project Overview
@@ -37,4 +37,5 @@ This project focuses on analyzing sales and finance data to deliver actionable b
 
 ▶ 🚀 Outcome
 The dashboard simplifies complex sales and finance data into a single, easy-to-interpret view, supporting faster and more effective business decisions.
+
 
