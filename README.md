@@ -3,10 +3,10 @@
 ▶📊 Dashboard Preview
 
 ↣  Sales Overview
-[Sales Dashboard](dashboard 1.jpg)
+[Sales Dashboard](dashboard 1.JPG)
 
 ↣  Finance & Customer Analysis
-[Finance Dashboard](dashboard 2.jpg)
+[Finance Dashboard](dashboard 2.JPG)
 
 
 ▶ 📌 Project Overview
@@ -32,10 +32,11 @@ This project focuses on analyzing sales and finance data to deliver actionable b
 
 ▶ 📁 Files in this Repository
 - `Sales_Finance_Dashboard.pbix` – Power BI dashboard file
-- `dashboard 1.jpg` – Sales dashboard preview
-- `dashboard 2.jpg` – Finance & customer dashboard preview
+- `dashboard 1.JPG` – Sales dashboard preview
+- `dashboard 2.JPG` – Finance & customer dashboard preview
 
 ▶ 🚀 Outcome
 The dashboard simplifies complex sales and finance data into a single, easy-to-interpret view, supporting faster and more effective business decisions.
+
 
 
