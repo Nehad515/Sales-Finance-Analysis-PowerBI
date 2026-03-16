@@ -57,7 +57,7 @@ These visualizations help understand how products and suppliers impact overall s
 ## Dashboard Preview
 
 ### Sales Overview
-![Sales Dashboard](images/dashboard 1.JPG)
+![Sales Dashboard](images/dashboard_overview.JPG)
 
 ### Finance Analysis
 ![Finance Dashboard](images/dashboard 2.JPG)
