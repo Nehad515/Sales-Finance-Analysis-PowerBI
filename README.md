@@ -1,42 +1,86 @@
-  Sales & Finance Analysis Dashboard | Power BI
+# Sales & Finance Analysis Dashboard | Power BI
 
-▶📊 Dashboard Preview
+## Project Overview
+This project focuses on analyzing sales and financial performance using Power BI. 
+The goal of this dashboard is to help businesses understand revenue trends, product performance, and supplier contribution through interactive data visualizations.
 
-↣  Sales Overview
-[Sales Dashboard](dashboard 1.JPG)
+The dashboard transforms raw sales data into meaningful insights that support better business decision-making.
 
-↣  Finance & Customer Analysis
-[Finance Dashboard](dashboard 2.JPG)
+---
 
+## Objectives
+The key objectives of this project were:
 
-▶ 📌 Project Overview
-This project focuses on analyzing sales and finance data to deliver actionable business insights through an interactive Power BI dashboard. The dashboard is designed to help stakeholders monitor performance, identify revenue drivers, and support data-driven decision-making.
+- Analyze overall sales performance
+- Identify top-performing products
+- Track revenue trends across different months
+- Understand supplier contribution to revenue
+- Visualize business performance using interactive dashboards
 
-▶ 📊 Key Business Metrics
-- Revenue and Profit Margin
-- YTD / MTD Sales Trends
-- Customer Lifetime Value (CLV)
-- Top Products Contribution
-- Supplier Performance Analysis
+---
 
-▶ 🛠 Tools & Technologies
+## Tools & Technologies Used
 - Power BI
-- DAX
-- Power Query
+- Microsoft Excel
+- Data Cleaning
 - Data Modeling
+- Data Visualization
 
-▶ 🔍 Key Insights
-- Identified top-performing products contributing approximately **60% of total revenue**
-- Highlighted supplier performance to support procurement and cost optimization
-- Enabled quick performance tracking using KPI-driven visualizations
+---
 
-▶ 📁 Files in this Repository
-- `Sales_Finance_Dashboard.pbix` – Power BI dashboard file
-- `dashboard 1.JPG` – Sales dashboard preview
-- `dashboard 2.JPG` – Finance & customer dashboard preview
+## Dataset
+The dataset used in this project contains information related to:
 
-▶ 🚀 Outcome
-The dashboard simplifies complex sales and finance data into a single, easy-to-interpret view, supporting faster and more effective business decisions.
+- Product details
+- Sales transactions
+- Supplier information
+- Revenue and quantity sold
 
+The data was cleaned and transformed before building the dashboard.
 
+---
 
+## Dashboard Features
+The dashboard includes the following insights:
+
+- Total Sales Revenue
+- Total Orders
+- Units Sold
+- Monthly Sales Trend
+- Top Products by Revenue
+- Supplier Contribution Analysis
+
+These visualizations help understand how products and suppliers impact overall sales performance.
+
+---
+
+## Dashboard Preview
+
+### Sales Overview
+![Sales Dashboard](images/dashboard 1.JPG)
+
+### Finance Analysis
+![Finance Dashboard](images/dashboard 2.JPG)
+
+---
+
+## Key Insights
+- Identified top revenue-generating products
+- Analyzed monthly sales trends
+- Observed supplier contribution to overall revenue
+- Visualized business performance metrics for decision making
+
+---
+
+## Skills Demonstrated
+- Data Analysis
+- Business Intelligence
+- Data Visualization
+- Dashboard Development
+- Data Cleaning
+
+---
+
+## Author
+Neha Dhumal  
+Aspiring Data Analyst
